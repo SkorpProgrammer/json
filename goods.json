@@ -2,11 +2,11 @@
     "contents": [
         {
             "title": "milk",
-            "price": 200
+            "price": 200,
         },
         {
             "title": "water",
-            "price": 100
+            "price": 100,
         }
     ]
 }
