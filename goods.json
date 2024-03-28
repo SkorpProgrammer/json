@@ -1,13 +1,10 @@
 {
-    "amount": 45000,
-    "contents": [
-        {
-            "title": "milk",
-            "price": 200
-        },
-        {
-            "title": "water",
-            "price": 50
-        }
-    ]
+    {
+        "title": "milk",
+        "price": 200
+    },
+    {
+        "title": "water",
+        "price": 50
+    }
 }
