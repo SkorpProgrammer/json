@@ -1,10 +1,12 @@
 {
-    {
-        "title": "milk",
-        "price": 200
-    },
-    {
-        "title": "water",
-        "price": 50
-    }
+    "contents": [
+        {
+            "title": "milk",
+            "price": 200
+        },
+        {
+            "title": "water",
+            "price": 50
+        }
+    ]
 }
