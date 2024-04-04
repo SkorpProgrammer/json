@@ -3,12 +3,12 @@
         {
             "id_product": 1,
             "product_name": "milk",
-            "price": 200,
+            "price": 200
         },
         {
             "id_product": 2,
             "product_name": "water",
-            "price": 50,
+            "price": 50
         }
     ]
 ]
